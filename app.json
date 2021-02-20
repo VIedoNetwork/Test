@@ -1,0 +1,12 @@
+{
+  "name": "TestFirebase",
+  "displayName": "TestFirebase",
+  "expo": {
+    "name": "TestFirebase",
+    "slug": "TestFirebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
